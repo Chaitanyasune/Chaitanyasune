@@ -1,5 +1,5 @@
 ## Hi there <img src="https://github.com/Chaitanyasune/Chaitanyasune/blob/main/Wave.gif" width="200">
-<br><br>
+
 <!--
 **Chaitanyasune/Chaitanyasune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
