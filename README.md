@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/Chaitanyasune/Chaitanyasune/blob/main/Wave.gif" width="500">
+## Hi there <img src="https://github.com/Chaitanyasune/Chaitanyasune/blob/main/Wave.gif" width="50">
 
 <!--
 **Chaitanyasune/Chaitanyasune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
