@@ -70,9 +70,14 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-<!--<a href="https://github.com//Chaitanyasune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chaitanyasune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chaitanya's github stats" /></a>-->
-| <a href="https://github.com/Chaitanyasune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasune&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaitanyasune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasune&layout=compact&theme=buefy&hide_border=true" />
+</div>
+
 
 
 ## 📊 LeetCode Stats
