@@ -76,5 +76,8 @@ Here are some ideas to get you started:
 
 ## 📊 My LeetCode Progress
 
-<!-- LEETCODE-STATS -->
-<!-- LEETCODE-STATS -->
+## 📊 LeetCode Stats
+
+<!-- LEETCODE_STATS:START -->
+<!-- LEETCODE_STATS:END -->
+
