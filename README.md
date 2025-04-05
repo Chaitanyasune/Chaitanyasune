@@ -77,9 +77,5 @@ Here are some ideas to get you started:
 
 ## 📊 LeetCode Stats
 
-<!-- LEETCODE_STATS:-->
-<!-- LEETCODE_STATS:END -->
-
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Chaitanya_Sune?theme=light&font=Noto%20Sans%20Old%20Italic)
 
