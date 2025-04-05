@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - any collaboration work,
 - machine learning projects(development or research),
 - related internships and
-- available to become a software developer
+- open to software developer roles
 
 <br><br>
 ## <img src="https://github.com/Chaitanyasune/Chaitanyasune/blob/main/Sklls.gif" width=25px><b> Skills</b>
@@ -74,10 +74,11 @@ Here are some ideas to get you started:
 <!--<a href="https://github.com//Chaitanyasune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chaitanyasune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chaitanya's github stats" /></a>-->
 | <a href="https://github.com/Chaitanyasune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasune&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-## 📊 My LeetCode Progress
+[![LeetCode](https://img.shields.io/badge/LeetCode-Chaitanyasune-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Chaitanyasune/)
+
 
 ## 📊 LeetCode Stats
 
-<!-- LEETCODE_STATS:START -->
+<!-- LEETCODE_STATS:-->
 <!-- LEETCODE_STATS:END -->
 
