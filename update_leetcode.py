@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-USERNAME = "Chaitanyasune"
+USERNAME = "Chaitanya_Sune"
 README_PATH = "README.md"
 MARKER = "<!-- LEETCODE-STATS -->"
 
