@@ -73,3 +73,9 @@ Here are some ideas to get you started:
 <br>
 <!--<a href="https://github.com//Chaitanyasune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chaitanyasune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chaitanya's github stats" /></a>-->
 | <a href="https://github.com/Chaitanyasune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasune&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+## 📊 My LeetCode Progress
+
+<!-- LEETCODE-STATS -->
+
+<!-- LEETCODE-STATS -->
