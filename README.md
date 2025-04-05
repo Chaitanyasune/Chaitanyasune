@@ -77,8 +77,9 @@ Here are some ideas to get you started:
 
 ## 📊 LeetCode Stats
 
-<!-- LEETCODE-STATS -->
-<!-- LEETCODE-STATS -->
+<!-- LEETCODE_STATS:-->
+<!-- LEETCODE_STATS:END -->
+
 
 
 
