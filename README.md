@@ -77,5 +77,7 @@ Here are some ideas to get you started:
 
 ## 📊 LeetCode Stats
 
-MARKER = "<!-- LEETCODE_STATS:-->"
+<!-- LEETCODE_STATS:-->
+<!-- LEETCODE_STATS:END -->
+
 
