@@ -3,7 +3,8 @@ from datetime import datetime
 
 USERNAME = "Chaitanya_Sune"
 README_PATH = "README.md"
-MARKER = "<!-- LEETCODE-STATS -->"
+START_MARKER = "<!-- LEETCODE_STATS:-->"
+END_MARKER = "<!-- LEETCODE_STATS:END -->"
 
 query = """
 query getUserProfile($username: String!) {
@@ -44,8 +45,16 @@ _Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_
 with open(README_PATH, "r", encoding="utf-8") as f:
     readme = f.read()
 
-before, after = readme.split(MARKER)
-new_readme = f"{before}{MARKER}\n{content}\n{MARKER}{after}"
+# Check both markers are present
+if START_MARKER not in readme or END_MARKER not in readme:
+    raise ValueError("Start or end marker not found in README.")
+
+# Split content between the markers
+before = readme.split(START_MARKER)[0]
+after = readme.split(END_MARKER)[1]
+
+# Inject content
+new_readme = f"{before}{START_MARKER}\n{content}\n{END_MARKER}{after}"
 
 with open(README_PATH, "w", encoding="utf-8") as f:
     f.write(new_readme)
