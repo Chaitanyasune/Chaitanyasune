@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
-<p>
+<!--<p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaitanyasune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasune&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Chaitanya_Sune?theme=light&font=Noto%20Sans%20Old%20Italic)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Chaitanya_Sune?theme=light&font=Noto%20Sans%20Old%20Italic)-->
 
